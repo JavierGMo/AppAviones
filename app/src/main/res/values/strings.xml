@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aviones</string>
+    <string name="bnt_salir">Salir</string>
+    <string name="bnt_hangar">Hangar</string>
+    <string name="btn_pista">Pista</string>
+    <string name="bnt_registro">Registro</string>
+    <string name="btn_image_select">Seleccionar imagen</string>
+    <string name="nombre">Nombre</string>
+    <string name="str_hora">Hora</string>
+    <string name="str_fecha">dd/mm/yyyy</string>
+    <string name="str_registrar">Registrar</string>
+    <string name="btnVolar">Volar</string>
+</resources>
